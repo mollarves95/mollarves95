@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BC71B&random=false&width=435&lines=%C2%A1Hola!+mi+nombre+es+Mar%C3%ADa+Eugenia+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;Bienvenido+a+mi+perfil+%F0%9F%A4%96%E2%9C%A8%F0%9F%92%BB%E2%98%95%F0%9F%91%BD)](https://git.io/typing-svg)
 
-**mollarves95/mollarves95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+https://pin.it/2D4Q35q
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
