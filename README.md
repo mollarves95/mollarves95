@@ -6,8 +6,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
 
--👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br>
--🌱 Actualmente me encuentro capacitandome en Desarrollo Web con el equipo de @lexpinonline: https://www.instagram.com/lexpinonline/ 
+- 👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br>
+- 🌱 Actualmente me encuentro capacitandome en Desarrollo Web con el equipo de [LEXPIN](https://www.instagram.com/lexpinonline/ ) 
 
 
 <h2>Tecnologías que manejo</h2>
