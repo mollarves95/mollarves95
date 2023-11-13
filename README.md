@@ -9,7 +9,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
 - 👷‍♀ **Soy Ingeniero Civil y apasionada por la tecnología** <br>
@@ -17,6 +16,9 @@
 - 🌱 **Actualmente me encuentro capacitando en Desarrollo Web con el equipo de** [LEXPIN](https://www.instagram.com/lexpinonline/) <br>
 
 - ☕ **Datos Curiosos :   Me gustan los Videojuegos 🎮 <br> El fútbol ⚽ Los libros 📖 y Coleccionar cartas Pokémon⚡**
+
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
 
 <br>
 <h2>Tecnologías que manejo</h2>
