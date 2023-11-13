@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF746&random=false&width=435&lines=Bienvenido+a+mi+perfil+%F0%9F%A4%96%E2%9C%A8%F0%9F%92%BB%E2%98%95%F0%9F%91%BD)](https://git.io/typing-svg)
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+![](https://pin.it/7dio3e6)
 
 <h2>Acerca de mi</h2>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
