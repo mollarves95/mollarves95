@@ -1,6 +1,6 @@
 <h1 align="center">Hola, mi nombre es María Eugenia 🙋‍♀️</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2AF73D&random=false&width=435&lines=Bienvenido+a+mi+perfil+%F0%9F%A4%96%E2%9C%A8%F0%9F%92%BB%E2%98%95%F0%9F%91%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2AF73D&vCenter=true&random=false&width=435&lines=Bienvenido+a+mi+perfil+%F0%9F%A4%96%E2%9C%A8)](https://git.io/typing-svg)
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -12,7 +12,7 @@
 
 - 🌱 **Actualmente me encuentro capacitando en Desarrollo Web con el equipo de** [LEXPIN](https://www.instagram.com/lexpinonline/) <br>
 
-- ✨ **Datos Curiosos : Me gustan los Videojuegos 🎮 El fútbol ⚽ Los libros 📖 y Coleccionar cartas Pokémon⚡**
+- ☕ **Datos Curiosos : Me gustan los Videojuegos 🎮 El fútbol ⚽ Los libros 📖 y Coleccionar cartas Pokémon⚡**
 
 
 <h2>Tecnologías que manejo</h2>
