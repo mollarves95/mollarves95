@@ -6,7 +6,8 @@
 <p align="left">
 
 - 👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br>
-- 🌱 Actualmente me encuentro capacitandome en Desarrollo Web con el equipo de [LEXPIN](https://www.instagram.com/lexpinonline/ ) 
+- 🌱 Actualmente me encuentro capacitando en Desarrollo Web con el equipo de [LEXPIN](https://www.instagram.com/lexpinonline/ )
+- - ⚡ **Fun Facts** : Me gustan los Videojuegos🎮, El fútbol⚽, Los libros📖 y Coleccionar cartas Pokémon 🐉🔥
 
 
 <h2>Tecnologías que manejo</h2>
