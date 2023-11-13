@@ -13,7 +13,7 @@
 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<br>
+
 
 - 👷‍♀ **Soy Ingeniero Civil y apasionada por la tecnología** <br>
 
@@ -21,7 +21,7 @@
 
 - ☕ **Datos Curiosos :   Me gustan los Videojuegos 🎮 <br> El fútbol ⚽ Los libros 📖 y Coleccionar cartas Pokémon⚡**
 
-
+<br>
 <h2>Tecnologías que manejo</h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <br>
