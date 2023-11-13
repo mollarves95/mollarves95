@@ -1,7 +1,9 @@
 <h1 align="center">Hola, mi nombre es María Eugenia 🙋‍♀️</h1>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2AF73D&vCenter=true&random=false&width=435&lines=Bienvenido+a+mi+perfil+%F0%9F%A4%96%E2%9C%A8" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2AF73D&vCenter=true&random=false&width=435&lines=Bienvenido+a+mi+perfil+%F0%9F%A4%96%E2%9C%A8" alt="Typing SVG" /></a>
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+</p>
 
 <h2>Acerca de mi</h2>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
