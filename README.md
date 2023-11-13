@@ -6,8 +6,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
 
-👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br>
-🌱 Actualmente me encuentro capacitandome en Desarrollo Web con el equipo de @lexpinonline: https://www.instagram.com/lexpinonline/ 
+-👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br><br>
+-🌱 Actualmente me encuentro capacitandome en Desarrollo Web con el equipo de @lexpinonline: https://www.instagram.com/lexpinonline/ 
 
 
 <h2>Tecnologías que manejo</h2>
@@ -22,7 +22,7 @@
 
 <br>
 
-[![@mollarves](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mollarves")](https://www.instagram.com/mollarves/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![María Ollarves](https://img.icons8.com/fluency/48/000000/linkedin.png "María Ollarves")](https://www.linkedin.com/in/maría-eugenia-ollarves-1b009618b/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@mollarves](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mollarves")](https://www.instagram.com/mollarves/) [![@María Eugenia Ollarves](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/profile.php?id=100035637588121) [![María Eugenia Ollarves](https://img.icons8.com/fluency/48/000000/linkedin.png "María Ollarves")](https://www.linkedin.com/in/maría-eugenia-ollarves-1b009618b/) [![@mollarves95@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mollarves95@gmail.com")](@mollarves95@gmail.com)
 
 <br>
 
