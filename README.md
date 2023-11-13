@@ -6,11 +6,16 @@
 </p>
 
 <br><br>
+
 <h2>Acerca de mi</h2>
+
 <br>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
   
+<br>
+
 - 👷‍♀ **Soy Ingeniero Civil y apasionada por la tecnología** <br>
 
 - 🌱 **Actualmente me encuentro capacitando en Desarrollo Web con el equipo de** [LEXPIN](https://www.instagram.com/lexpinonline/) <br>
