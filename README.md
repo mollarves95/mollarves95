@@ -12,7 +12,7 @@
 
 - 🌱 **Actualmente me encuentro capacitando en Desarrollo Web con el equipo de** [LEXPIN](https://www.instagram.com/lexpinonline/) <br>
 
-- ☕ **Datos Curiosos : Me gustan los Videojuegos 🎮 El fútbol ⚽ Los libros 📖 y Coleccionar cartas Pokémon⚡**
+- ☕ **Datos Curiosos :   Me gustan los Videojuegos 🎮 <br> El fútbol ⚽ Los libros 📖 y Coleccionar cartas Pokémon⚡**
 
 
 <h2>Tecnologías que manejo</h2>
