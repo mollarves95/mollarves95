@@ -42,6 +42,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mollarves95&show_icons=true&theme=ocean_dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mollarves95)](https://github.com/mollarves95/github-readme-stats)
+
 
 
 
