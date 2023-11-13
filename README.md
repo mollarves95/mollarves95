@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
 
--👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br><br>
+-👷‍♀ Soy Ingeniero Civil y apasionada por la tecnología <br>
 -🌱 Actualmente me encuentro capacitandome en Desarrollo Web con el equipo de @lexpinonline: https://www.instagram.com/lexpinonline/ 
 
 
@@ -22,7 +22,7 @@
 
 <br>
 
-[![@mollarves](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mollarves")](https://www.instagram.com/mollarves/) [![María Eugenia Ollarves](https://img.icons8.com/fluency/48/000000/facebook.png "@María Eugenia Ollarves")](https://www.facebook.com/profile.php?id=100035637588121) [![María Eugenia Ollarves](https://img.icons8.com/fluency/48/000000/linkedin.png "María Eugenia Ollarves")](https://www.linkedin.com/in/maría-eugenia-ollarves-1b009618b/) [![mollarves95@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mollarves95@gmail.com")](mollarves95@gmail.com)
+[![@mollarves](https://img.icons8.com/fluency/48/000000/instagram-new.png "@mollarves")](https://www.instagram.com/mollarves/) [![María Eugenia Ollarves](https://img.icons8.com/fluency/48/000000/facebook.png "María Eugenia Ollarves")](https://www.facebook.com/profile.php?id=100035637588121) [![María Eugenia Ollarves](https://img.icons8.com/fluency/48/000000/linkedin.png "María Eugenia Ollarves")](https://www.linkedin.com/in/maría-eugenia-ollarves-1b009618b/) [![mollarves95@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@mollarves95@gmail.com")](mollarves95@gmail.com)
 
 <br>
 
