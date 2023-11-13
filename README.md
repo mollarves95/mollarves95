@@ -5,8 +5,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </p>
 
-
-
+<br><br>
 <h2>Acerca de mi</h2>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
