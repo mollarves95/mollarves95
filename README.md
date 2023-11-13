@@ -7,6 +7,7 @@
 
 <br><br>
 <h2>Acerca de mi</h2>
+<br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 <p align="left">
   
