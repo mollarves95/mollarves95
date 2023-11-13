@@ -22,7 +22,7 @@
 
 <br><br>
 
-<h2>Tecnologías que manejo</h2>
+<h2>Tecnologías que manejo 👩‍💻</h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> 
 <br>
 
